@@ -1,0 +1,137 @@
+body {
+	width:960px;
+	float:center;
+	margin:auto;
+	background-color:#C6C6C6;
+	padding:5px;
+}
+
+a {
+	text-decoration: none;
+}
+
+form { display: inline; }
+
+.button {
+    font: bold 11px Arial;
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid #CCCCCC;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid #CCCCCC;
+   }
+
+.citations {
+	margin-bottom:20px;
+}
+
+#citation_text_box {
+	background-color:rgba(0,0,0,.1);
+	padding:5px;
+}
+
+.cite_light {
+	background-color:rgba(15,150,223,.05);
+}
+
+.cite_dark {
+	background-color:rgba(15,150,223,.11);
+}
+
+.cite_edit {
+	width:100%;
+	text-align: right;	
+}
+
+.cite_edit ul {
+	margin-right:7px;
+}
+
+.cite_edit ul {
+	margin-bottom:0;
+}
+
+.cite_edit li {
+	padding-left:6px;
+}
+
+.cite_text_box {
+	padding-left:1.5em;
+}
+
+#footer {
+	margin-top:15px;
+}
+
+#generate_loading {
+	display:none;
+}
+
+#header {
+	background-color:rgba(255,255,255,.5);
+	padding:10px;
+	/*margin-bottom:2px;*/
+}
+
+.inline-list {
+	list-style-type: none;
+}
+
+.inline-list li {
+	display:inline;
+}
+
+#journal_search {
+	display:none;
+	background-color:rgba(0,0,0,.1);
+}
+
+#journal_search li { 
+	cursor: hand; cursor: pointer;
+}
+
+#nav {
+	text-align:right;	
+}
+
+#nav ul {
+	margin-bottom:0;
+}
+
+#nav li {
+	padding-left: 6px;
+}
+
+#overview_text {
+	display:none;
+
+}
+
+#overview_text_output {
+	/*display:none;*/
+
+}
+
+#page_content {
+	background-color:white;
+	padding:15px;
+}
+
+.report_copy {
+	color:#666;
+	padding-left:1.5em;
+}
+
+#report_tools {
+	background-color:rgba(255,243, 196,.5);
+	padding:10px;
+}
+
+ul {
+	list-style:none;
+}
+
+
